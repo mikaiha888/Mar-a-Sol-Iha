@@ -2,7 +2,7 @@
 #### A passionate full stack developer from Argentina
 </br>
 
-# About Me
+## About Me
 
 👩‍💻 I am a Full Stack Developer, passionate about the IT industry, with a focus on web development and solid knowledge in UX/UI Design.
 
@@ -12,7 +12,7 @@
 </br>
 </br>
 
-# Languages and Tools
+## Languages and Tools
 
 <p>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -35,7 +35,7 @@
 </br>
 </br>
 
-# GitHub Stats
+## GitHub Stats
 </br>
  
 <p>
@@ -46,7 +46,7 @@
 </br>
 </br>
 
-# Connect with Me:
+## Connect with Me:
 I am open and available for new opportunities and connections in the IT industry. If you have any questions, suggestions, or want to know more about my profile, feel free to contact me.
 
 Thank you for visiting my profile! 🚀
